@@ -1,0 +1,6 @@
+livelybot_hardware_sdk/src/serial
+/home/hightorque/sim2real_master_dg/devel/.private/serial/cmake.lock /home/hightorque/sim2real_master_dg/devel/./cmake.lock
+/home/hightorque/sim2real_master_dg/devel/.private/serial/share/serial/cmake/serialConfig.cmake /home/hightorque/sim2real_master_dg/devel/share/serial/cmake/serialConfig.cmake
+/home/hightorque/sim2real_master_dg/devel/.private/serial/share/serial/cmake/serialConfig-version.cmake /home/hightorque/sim2real_master_dg/devel/share/serial/cmake/serialConfig-version.cmake
+/home/hightorque/sim2real_master_dg/devel/.private/serial/lib/libserial.so /home/hightorque/sim2real_master_dg/devel/lib/libserial.so
+/home/hightorque/sim2real_master_dg/devel/.private/serial/lib/pkgconfig/serial.pc /home/hightorque/sim2real_master_dg/devel/lib/pkgconfig/serial.pc

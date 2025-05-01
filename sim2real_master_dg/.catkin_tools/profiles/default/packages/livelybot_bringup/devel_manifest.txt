@@ -1,0 +1,5 @@
+livelybot_hardware_sdk/src/livelybot_bringup
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_bringup/cmake.lock /home/hightorque/sim2real_master_dg/devel/./cmake.lock
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_bringup/share/livelybot_bringup/cmake/livelybot_bringupConfig-version.cmake /home/hightorque/sim2real_master_dg/devel/share/livelybot_bringup/cmake/livelybot_bringupConfig-version.cmake
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_bringup/share/livelybot_bringup/cmake/livelybot_bringupConfig.cmake /home/hightorque/sim2real_master_dg/devel/share/livelybot_bringup/cmake/livelybot_bringupConfig.cmake
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_bringup/lib/pkgconfig/livelybot_bringup.pc /home/hightorque/sim2real_master_dg/devel/lib/pkgconfig/livelybot_bringup.pc

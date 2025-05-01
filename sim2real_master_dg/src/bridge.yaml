@@ -1,0 +1,9 @@
+topics:
+  -
+    topic: /input_data_topic  # Topic name on both ROS 1 and ROS 2
+    type: std_msgs/msg/Float32MultiArray  # Type of topic to bridge
+    queue_size: 1  # Queue size
+  -
+    topic: /inf_res  # Topic name on both ROS 1 and ROS 2
+    type: std_msgs/msg/Float32MultiArray  # Type of topic to bridge
+    queue_size: 1  # Queue size

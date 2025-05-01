@@ -1,0 +1,25 @@
+<launch>
+
+
+  <param
+    name="robot_description"
+    textfile="$(find pai_12dof_v2_0312)/urdf/pai_12dof.urdf" />
+
+  <node pkg="sim2real_dev"
+    name="develop_controller"
+    type="sim2real_dev_node"
+  >
+    <param  name="robot_dof"  value="12"/>
+    <param name="command_topic"  value="joint_goals"/>
+  </node>
+  
+  <node
+    name="robot_state_publisher"
+    pkg="robot_state_publisher"
+    type="robot_state_publisher" />
+  <node
+    name="rviz"
+    pkg="rviz"
+    type="rviz"
+    args="-d $(find pai_12dof_v2_0312)/rviz/display.rviz" />
+</launch>

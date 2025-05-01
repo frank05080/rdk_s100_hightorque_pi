@@ -1,0 +1,22 @@
+livelybot_hardware_sdk/src/livelybot_serial
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/cmake.lock /home/hightorque/sim2real_master_dg/devel/./cmake.lock
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/share/livelybot_serial/cmake/livelybot_serialConfig-version.cmake /home/hightorque/sim2real_master_dg/devel/share/livelybot_serial/cmake/livelybot_serialConfig-version.cmake
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/share/livelybot_serial/cmake/livelybot_serialConfig.cmake /home/hightorque/sim2real_master_dg/devel/share/livelybot_serial/cmake/livelybot_serialConfig.cmake
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/share/livelybot_serial/docs/robot_dynamic_config_20Config.dox /home/hightorque/sim2real_master_dg/devel/share/livelybot_serial/docs/robot_dynamic_config_20Config.dox
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/share/livelybot_serial/docs/robot_dynamic_config_20Config.wikidoc /home/hightorque/sim2real_master_dg/devel/share/livelybot_serial/docs/robot_dynamic_config_20Config.wikidoc
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/share/livelybot_serial/docs/robot_dynamic_config_20Config-usage.dox /home/hightorque/sim2real_master_dg/devel/share/livelybot_serial/docs/robot_dynamic_config_20Config-usage.dox
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/include/livelybot_serial/robot_dynamic_config_20Config.h /home/hightorque/sim2real_master_dg/devel/include/livelybot_serial/robot_dynamic_config_20Config.h
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/liblivelybot_serial.so /home/hightorque/sim2real_master_dg/devel/lib/liblivelybot_serial.so
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/pkgconfig/livelybot_serial.pc /home/hightorque/sim2real_master_dg/devel/lib/pkgconfig/livelybot_serial.pc
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/python3/dist-packages/livelybot_serial/__init__.py /home/hightorque/sim2real_master_dg/devel/lib/python3/dist-packages/livelybot_serial/__init__.py
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/python3/dist-packages/livelybot_serial/cfg/robot_dynamic_config_20Config.py /home/hightorque/sim2real_master_dg/devel/lib/python3/dist-packages/livelybot_serial/cfg/robot_dynamic_config_20Config.py
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/python3/dist-packages/livelybot_serial/cfg/__init__.py /home/hightorque/sim2real_master_dg/devel/lib/python3/dist-packages/livelybot_serial/cfg/__init__.py
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/test_bootloader /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/test_bootloader
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/test_feedback /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/test_feedback
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/test_motor /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/test_motor
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/test_reset_zero /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/test_reset_zero
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/ik_run /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/ik_run
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/test_jump /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/test_jump
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/test_timeout /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/test_timeout
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/test_motor_feedback /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/test_motor_feedback
+/home/hightorque/sim2real_master_dg/devel/.private/livelybot_serial/lib/livelybot_serial/test_motor_run /home/hightorque/sim2real_master_dg/devel/lib/livelybot_serial/test_motor_run
